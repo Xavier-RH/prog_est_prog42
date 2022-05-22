@@ -13,7 +13,7 @@ Presenta el uso de:
     <li>Condicional if - else</li>
     <li>fgets para almacenar una cadena de caracteres en un arreglo de caracteres</li>
     <li>srtlen para medir una cadena de caracteres</li>
-    <li>strcopy para copiar lo de un arreglo de caracteres a otro</li>
+    <li>strcpy para copiar lo de un arreglo de caracteres a otro</li>
   </ul>
 </p>
 
